@@ -1,0 +1,37 @@
+tests/test_rime_optional_dependency.py
+  s_4d81056ff7638d::t_8b694dc13b9411 1-52
+.github/workflows/coverage.yaml
+  s_4d81056ff7638d::t_8b694dc13b9411 49
+tests/test_rime_websocket_v1.py
+  s_4d81056ff7638d::t_8b694dc13b9411 15
+pyproject.toml
+  s_4d81056ff7638d::t_bf19826fafd674 139
+changelog/rime-api.other.md
+  s_4d81056ff7638d::t_8b694dc13b9411 1
+src/pipecat/services/rime/tts.py
+  s_4d81056ff7638d::t_8b694dc13b9411 15,350-357
+tests/fixtures/rime_websocket_v1.json
+  s_4d81056ff7638d::t_8b694dc13b9411 1-200
+.github/workflows/tests.yaml
+  s_4d81056ff7638d::t_8b694dc13b9411 54
+src/pipecat/services/rime/_websocket_v1.py
+  s_4d81056ff7638d::t_8b694dc13b9411 19,25-27,276-277,301-302,413-414,441-442
+tests/test_rime_protocol_contract.py
+  s_4d81056ff7638d::t_8b694dc13b9411 1-33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c0d77007443b0b3a395481aa4840507e30755b92",
+  "prompts": {},
+  "sessions": {
+    "s_4d81056ff7638d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0ff63-a61d-7721-9fa5-b2d60eea44b6",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "naszzz <naszagorov@gmail.com>"
+    }
+  }
+}
