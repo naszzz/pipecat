@@ -1,0 +1,21 @@
+src/pipecat/services/rime/tts.py
+  s_4d81056ff7638d::t_358394b548f87f 786
+tests/test_rime_websocket_v1.py
+  s_4d81056ff7638d::t_a240e1db496c61 11,883-919,935,950
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "15847121863d51c14736d46e3dd7a4d7b501572f",
+  "prompts": {},
+  "sessions": {
+    "s_4d81056ff7638d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0ff63-a61d-7721-9fa5-b2d60eea44b6",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "naszzz <naszagorov@gmail.com>"
+    }
+  }
+}
