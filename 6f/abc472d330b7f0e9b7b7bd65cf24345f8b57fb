@@ -1,0 +1,30 @@
+src/pipecat/services/rime/_websocket_v1.py
+  s_88b059d43d1915::t_7053ff64be0b05 17,546-547,555,576,579,590,593,666-677
+  s_88b059d43d1915::t_bd2ddc77fccda7 549,577,591
+  s_88b059d43d1915::t_59557b2ea84b9c 678
+changelog/5629.added.md
+  s_88b059d43d1915::t_7053ff64be0b05 1
+src/pipecat/services/rime/tts.py
+  s_88b059d43d1915::t_7053ff64be0b05 1086,1167,1372
+tests/test_rime_websocket_v1.py
+  s_88b059d43d1915::t_1c3f4bb6126fa9 213,241,278-308
+  s_88b059d43d1915::t_5018a66fe81e49 190-212,214-240,242-277
+  s_88b059d43d1915::t_bd2ddc77fccda7 34,1079-1081
+  s_88b059d43d1915::t_2cebf7df093476 309-310
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6fabc472d330b7f0e9b7b7bd65cf24345f8b57fb",
+  "prompts": {},
+  "sessions": {
+    "s_88b059d43d1915": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1028e-a48f-7802-bc92-1b0198bd21ac",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "naszzz <naszagorov@gmail.com>"
+    }
+  }
+}
