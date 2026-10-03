@@ -1,0 +1,35 @@
+src/pipecat/services/rime/_proto/websocket_v1_pb2.pyi
+  s_4d81056ff7638d::t_7171c4268d2f11 1-216
+examples/voice/voice-rime-websocket-v1.py
+  s_4d81056ff7638d::t_7171c4268d2f11 1-116
+src/pipecat/services/rime/_proto/__init__.py
+  s_4d81056ff7638d::t_7171c4268d2f11 1
+tests/test_rime_websocket_v1.py
+  s_4d81056ff7638d::t_7171c4268d2f11 1-1279
+src/pipecat/services/rime/_websocket_v1.py
+  s_4d81056ff7638d::t_7171c4268d2f11 1-737
+tests/test_aggregated_frame_sequencer.py
+  s_4d81056ff7638d::t_7171c4268d2f11 584-597
+src/pipecat/services/rime/_proto/websocket_v1.proto
+  s_4d81056ff7638d::t_7171c4268d2f11 1-99
+src/pipecat/services/rime/tts.py
+  s_4d81056ff7638d::t_7171c4268d2f11 13,18,33-49,59,62-68,96-114,133,148,175-177,226-229,248-251,276-295,314,346-362,367-368,391-395,401-413,434-491,554-555,561-562,572-573,575-586,642-645,662-702,705-708,720-1049,1058-1060,1067-1091,1096-1098,1101-1117,1153-1165,1169-1176,1179-1182,1228-1305,1317-1321,1346-1391,1487,1514-1515,1540-1545
+src/pipecat/utils/context/aggregated_frame_sequencer.py
+  s_4d81056ff7638d::t_7171c4268d2f11 701-723
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "303e640722de2825f709f4634abb0090a60c2a1b",
+  "prompts": {},
+  "sessions": {
+    "s_4d81056ff7638d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0ff63-a61d-7721-9fa5-b2d60eea44b6",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "naszzz <naszagorov@gmail.com>"
+    }
+  }
+}
