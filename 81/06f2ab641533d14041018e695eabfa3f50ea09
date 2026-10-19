@@ -1,0 +1,25 @@
+changelog/+rime-v1-model-endpoints.changed.md
+  s_8e934c3267144b::t_388caab8967e81 1
+examples/voice/voice-rime-v1.py
+  s_8e934c3267144b::t_4ceeea0a1b2e0a 7-11,74
+src/pipecat/services/rime/tts_v1.py
+  s_8e934c3267144b::t_8aa0520bcee138 13,38-41,104-105,131-136,148,159-161,168-169,188-197,218
+tests/test_rime_v1_tts.py
+  s_8e934c3267144b::t_2ac159432a81dd 143-144,146,153,155-156,159-162,165-175,178-179,181-184,186-215,220-232,238-253,280-282,294-298,315,319-323,331-333,344-347,359-361,375-379,440-445,451-456,472,474,508,510,549-553,591-595,626-630,654-658,683-687,708-712,744-748
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8106f2ab641533d14041018e695eabfa3f50ea09",
+  "prompts": {},
+  "sessions": {
+    "s_8e934c3267144b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a155e9-7d8e-7232-918d-a99da4bb35cc",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "naszzz <naszagorov@gmail.com>"
+    }
+  }
+}
