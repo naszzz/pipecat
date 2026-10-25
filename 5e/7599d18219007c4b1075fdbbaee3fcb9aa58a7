@@ -1,0 +1,23 @@
+.github/workflows/tests.yaml
+  s_f6534973cf91a2::t_10c4f83c832a42 57
+tests/test_adapters_llm_shims.py
+  s_f6534973cf91a2::t_10c4f83c832a42 10,14,21-23,25-30
+.github/workflows/coverage.yaml
+  s_f6534973cf91a2::t_10c4f83c832a42 52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5e7599d18219007c4b1075fdbbaee3fcb9aa58a7",
+  "prompts": {},
+  "sessions": {
+    "s_f6534973cf91a2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17028-acb1-7011-a8a4-b860d76587c5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "naszzz <naszagorov@gmail.com>"
+    }
+  }
+}
