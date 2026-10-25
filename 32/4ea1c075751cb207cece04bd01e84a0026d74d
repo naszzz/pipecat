@@ -1,0 +1,22 @@
+docs/services/rime-realtime.md
+  s_f6534973cf91a2::t_8fca70c192b455 3-12,39-41,43-45,49,51,53,55,59-66,68,70,72,76,78-85,87,89-97,103,107-109,111,113,117-119,121,123-127,131,138,145
+  s_f6534973cf91a2::t_1e1af87e651bf2 13,74,101
+docs/services/rime-realtime-validation.md
+  s_f6534973cf91a2::t_8fca70c192b455 3,5,7,9-18,20,22-32,36,38,40,42,44,46,52,62,64,66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "324ea1c075751cb207cece04bd01e84a0026d74d",
+  "prompts": {},
+  "sessions": {
+    "s_f6534973cf91a2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17028-acb1-7011-a8a4-b860d76587c5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "naszzz <naszagorov@gmail.com>"
+    }
+  }
+}
