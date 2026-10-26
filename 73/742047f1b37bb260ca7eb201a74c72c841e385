@@ -1,0 +1,355 @@
+src/pipecat/utils/text/alnum_utils.py
+  s_f6534973cf91a2::t_c0877296125b4e 191-193,201,217-223
+changelog/6346.deprecated.5.md
+  s_f6534973cf91a2::t_c0877296125b4e 1
+src/pipecat/turns/user_stop/deferred_user_turn_stop_strategy.py
+  s_f6534973cf91a2::t_c0877296125b4e 9-10,15,18-21,32-35,42-48,112,135-141,143-146
+src/pipecat/services/fish/tts.py
+  s_f6534973cf91a2::t_c0877296125b4e 20-21,229,245-254
+  s_f6534973cf91a2::t_b4cb63b632a27c 255
+src/pipecat/turns/user_start/external_user_turn_start_strategy.py
+  s_f6534973cf91a2::t_c0877296125b4e 60,68-69,72
+src/pipecat/expressive/policy.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-68
+src/pipecat/turns/user_stop/external_user_turn_completion_stop_strategy.py
+  s_f6534973cf91a2::t_c0877296125b4e 11,14-17,36,38-39,53-60,63-68,71
+src/pipecat/turns/user_stop/speech_timeout_user_turn_stop_strategy.py
+  s_f6534973cf91a2::t_c0877296125b4e 146,243,279,295,297,313
+changelog/6319.added.2.md
+  s_f6534973cf91a2::t_c0877296125b4e 1
+changelog/6346.deprecated.4.md
+  s_f6534973cf91a2::t_c0877296125b4e 1
+changelog/6181.added.md
+  s_f6534973cf91a2::t_c0877296125b4e 1
+tests/test_llm_turn_completion_user_turn_stop_strategy.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-447
+tests/test_user_turn_start_strategy.py
+  s_f6534973cf91a2::t_c0877296125b4e 261,270,273-312
+  s_f6534973cf91a2::t_8615d4ec20f7c0 313
+examples/README.md
+  s_f6534973cf91a2::t_c0877296125b4e 112-115
+src/pipecat/adapters/tts/services/minimax_adapter.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-72
+examples/expressive-conversation/expressive-conversation-minimax.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-154
+changelog/6346.deprecated.6.md
+  s_f6534973cf91a2::t_c0877296125b4e 1
+tests/test_context_aggregators_universal.py
+  s_f6534973cf91a2::t_c0877296125b4e 61-62,95,98,103,105,113-124,405-518,1084,1105,1116,1123-1124,1141-1145,1147-1148,1154-1156,1181-1182,1188,1192,1195-1196
+tests/test_spoken_expression.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-86
+src/pipecat/services/llm_service.py
+  s_f6534973cf91a2::t_c0877296125b4e 33-36,58,60-61,422-432,807-833,869-870,878-882,947-948,968-972,1002-1003,1036,1810
+src/pipecat/adapters/tts/base_expression_adapter.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-128
+changelog/6346.added.5.md
+  s_f6534973cf91a2::t_c0877296125b4e 1
+tests/test_word_completion_tracker.py
+  s_f6534973cf91a2::t_c0877296125b4e 7,2852-2853,2877-2885,2888,3210-3247
+src/pipecat/turns/user_start/vad_user_turn_start_strategy.py
+  s_f6534973cf91a2::t_c0877296125b4e 21,28
+tests/test_tagged_llm_text_parser.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-116
+tests/test_cartesia_tts.py
+  s_f6534973cf91a2::t_c0877296125b4e 13-16,26-27,254-314,355
+tests/test_speculation_gate.py
+  s_f6534973cf91a2::t_c0877296125b4e 8,25,121,137,151,231,282,303,341,343,365
+src/pipecat/utils/text/base_text_aggregator.py
+  s_f6534973cf91a2::t_c0877296125b4e 36-40,44-45
+tests/test_tts_frame_ordering.py
+  s_f6534973cf91a2::t_c0877296125b4e 1065-1109
+examples/expressive-conversation/expressive-conversation-fish.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-173
+src/pipecat/services/elevenlabs/tts_base.py
+  s_f6534973cf91a2::t_c0877296125b4e 408-448
+docs/services/rime-realtime-validation.md
+  s_f6534973cf91a2::t_fab5312b79add7 3
+examples/expressive-conversation/expressive-conversation-cartesia.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-182
+tests/test_wake_phrase_user_turn_start_strategy.py
+  s_f6534973cf91a2::t_c0877296125b4e 12-13,18,21-25,30-36,132,137,302,307,361-521
+  s_f6534973cf91a2::t_adc9836f74e9da 522-523
+changelog/6346.deprecated.md
+  s_f6534973cf91a2::t_c0877296125b4e 1
+changelog/6346.changed.5.md
+  s_f6534973cf91a2::t_c0877296125b4e 1
+evals/release/scenarios/scripted/perception.yaml
+  s_f6534973cf91a2::t_c0877296125b4e 1-47
+tests/test_user_turn_processor.py
+  s_f6534973cf91a2::t_c0877296125b4e 200-229
+src/pipecat/turns/types.py
+  s_f6534973cf91a2::t_c0877296125b4e 12-13,24-29,46-47,51-66
+src/pipecat/turns/user_start/wake_phrase_user_turn_start_strategy.py
+  s_f6534973cf91a2::t_c0877296125b4e 18,21,39-41,43,45-60,180,187-189,195-196,205,209,215,218-220,222-231
+tests/test_user_bot_latency_observer.py
+  s_f6534973cf91a2::t_c0877296125b4e 50,52-54
+src/pipecat/services/tts_service.py
+  s_f6534973cf91a2::t_c0877296125b4e 13,22,24-30,33,53,75,114-116,122,133-137,172-175,433-439,484-528,602-616,1210,1217-1222,1225-1322,1330-1332,1345-1347,1354-1357,1403-1404,1413-1418,1485-1491,1536-1537,1683-1685,1688-1716,1730-1742,1755-1768,1773-1774,1781-1788,1946-1952,1959,1993-1995,2003-2008,2012-2017,2020-2022,2679-2692
+tests/test_deprecation_markers.py
+  s_f6534973cf91a2::t_c0877296125b4e 40,45,254-280,285-286,298
+src/pipecat/evals/events.py
+  s_f6534973cf91a2::t_c0877296125b4e 53-59,140-144,454,603,634-657
+  s_f6534973cf91a2::t_51ea61f53d3588 658
+.github/workflows/tests.yaml
+  s_f6534973cf91a2::t_c0877296125b4e 39
+changelog/6366.fixed.md
+  s_f6534973cf91a2::t_c0877296125b4e 1
+src/pipecat/audio/filters/aic_filter.py
+  s_f6534973cf91a2::t_c0877296125b4e 19,30,286,312-328,484-485
+  s_f6534973cf91a2::t_4865ee837c502d 486
+tests/test_expression_formatter.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-424
+src/pipecat/turns/user_stop/turn_analyzer_user_turn_stop_strategy.py
+  s_f6534973cf91a2::t_c0877296125b4e 159,210,269,278,284,320,322,341,353,358
+changelog/6346.changed.4.md
+  s_f6534973cf91a2::t_c0877296125b4e 1
+src/pipecat/turns/speculation_gate.py
+  s_f6534973cf91a2::t_c0877296125b4e 22,57-58,178
+src/pipecat/turns/user_start/min_words_user_turn_start_strategy.py
+  s_f6534973cf91a2::t_c0877296125b4e 53,67,69,91,109-111
+src/pipecat/frames/frames.py
+  s_f6534973cf91a2::t_c0877296125b4e 42-43,527-530,534,559-560,569,609-611,619,638-639,646,658,668-670,677,743-747,769-772,777,1450-1451,1453-1460,1468-1482,1533-1556,2161-2185
+  s_f6534973cf91a2::t_e4b5ea4858c8cf 2186-2187
+examples/expressive-conversation/expressive-conversation-tone.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-203
+src/pipecat/adapters/tts/services/elevenlabs_adapter.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-132
+tests/test_user_turn_strategies.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-125
+src/pipecat/services/cartesia/tts.py
+  s_f6534973cf91a2::t_c0877296125b4e 21-24,81-88,265,591-593,595,832,1048-1050,1052
+changelog/6346.changed.7.md
+  s_f6534973cf91a2::t_c0877296125b4e 1
+changelog/6346.deprecated.3.md
+  s_f6534973cf91a2::t_c0877296125b4e 1
+tests/test_aic_tyto_observer.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-350
+src/pipecat/processors/frameworks/rtvi/observer.py
+  s_f6534973cf91a2::t_c0877296125b4e 27,173-175,366-370,931,950-956,978-980,1033,1038-1045,1050,1090,1120,1123-1133,1142
+tests/test_service_switcher.py
+  s_f6534973cf91a2::t_c0877296125b4e 652-674
+src/pipecat/utils/text/tagged_llm_text_parser.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-182
+examples/features/features-wake-phrase.py
+  s_f6534973cf91a2::t_c0877296125b4e 32
+examples/voice/voice-aicoustics-tyto.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-173
+src/pipecat/utils/context/word_completion_tracker.py
+  s_f6534973cf91a2::t_c0877296125b4e 9-10,73,89-90,122-124,299-300,302-303
+src/pipecat/services/elevenlabs/dialogue/tts.py
+  s_f6534973cf91a2::t_c0877296125b4e 22,30,129,135,148-150,155,391-399,401
+tests/test_get_llm_invocation_params.py
+  s_f6534973cf91a2::t_c0877296125b4e 2652-2711
+src/pipecat/observers/aic_tyto_observer.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-413
+src/pipecat/processors/aggregators/llm_response_universal.py
+  s_f6534973cf91a2::t_c0877296125b4e 26-27,81,101,119,152-153,155-156,191-193,320-322,329,377-379,552-554,559-561,565,648-649,757-763,806-812,819,827-829,873,923,989-993,1014-1015,1017,1019-1022,1025-1028,1149-1152,1157-1159,1168-1171,1181,1386-1391,1439-1450,1455,1548,1557-1562,1566,1571-1574,1611,1648-1650,1653,1835-1836,1874,2074-2076,2081-2083,2085,2088,2511-2512,2518-2521,2687-2690
+src/pipecat/utils/string.py
+  s_f6534973cf91a2::t_c0877296125b4e 206-209,215,218-219,221-234
+examples/turn-management/turn-management-custom-external-turn-strategy.py
+  s_f6534973cf91a2::t_c0877296125b4e 78,82,94-101,106,109-111,115-117
+src/pipecat/adapters/tts/services/fish_adapter.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-112
+evals/release/scenarios/scripted/expressive_conversation.yaml
+  s_f6534973cf91a2::t_c0877296125b4e 1-85
+tests/test_user_perception.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-228
+tests/test_tts_expression.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-831
+src/pipecat/audio/vad/aic_quail_vad.py
+  s_f6534973cf91a2::t_c0877296125b4e 26
+src/pipecat/utils/text/skip_tags_aggregator.py
+  s_f6534973cf91a2::t_c0877296125b4e 51-55
+src/pipecat/turns/user_turn_completion_mixin.py
+  s_f6534973cf91a2::t_c0877296125b4e 9-11,23,29,48,232,234-236,238-245,247,260-262,273-279,331-333,338-339,341-344,347,350-354,359-361,365-366,368-369,371,374-390,417-420,443-444,478
+src/pipecat/expressive/instructions.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-213
+src/pipecat/adapters/llm/services/bedrock_adapter.py
+  s_f6534973cf91a2::t_c0877296125b4e 190-192,228-232,334,336,339-374
+  s_f6534973cf91a2::t_b8e43df0e89713 375
+src/pipecat/turns/user_stop/base_user_turn_stop_strategy.py
+  s_f6534973cf91a2::t_c0877296125b4e 9,12-13,18-22,60-69,73-75,82,86,97,103,112-122,146-168,229-231,253,263-334,336,338-340,348-355,357-360,364-368,371-373,375-391,398-402,413-417
+changelog/6368.fixed.md
+  s_f6534973cf91a2::t_c0877296125b4e 1
+tests/test_elevenlabs_tts.py
+  s_f6534973cf91a2::t_c0877296125b4e 11,19-23,40,551-670
+tests/test_aic_filter.py
+  s_f6534973cf91a2::t_c0877296125b4e 753-799
+changelog/6346.deprecated.2.md
+  s_f6534973cf91a2::t_c0877296125b4e 1
+scripts/deprecations/deprecations.json
+  s_f6534973cf91a2::t_c0877296125b4e 951-961,5120-5130,5138-5139,5153-5163,5171-5172,5186-5262
+src/pipecat/expressive/formatter.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-715
+src/pipecat/pipeline/service_switcher.py
+  s_f6534973cf91a2::t_c0877296125b4e 255-262,511-527
+src/pipecat/pipeline/worker.py
+  s_f6534973cf91a2::t_c0877296125b4e 46,177-183,199-200,446-453,1430,1434
+src/pipecat/processors/frameworks/rtvi/models.py
+  s_f6534973cf91a2::t_c0877296125b4e 41,530-533,546,699-724,739-741,750
+src/pipecat/services/cartesia/turns/stt.py
+  s_f6534973cf91a2::t_c0877296125b4e 122-123
+src/pipecat/services/minimax/tts.py
+  s_f6534973cf91a2::t_c0877296125b4e 22-23,324-336,392-394
+src/pipecat/turns/user_start/transcription_user_turn_start_strategy.py
+  s_f6534973cf91a2::t_c0877296125b4e 28,35,37
+tests/test_rtvi_observer_pushes.py
+  s_f6534973cf91a2::t_c0877296125b4e 357-396,521-547
+  s_f6534973cf91a2::t_f81c232f93b471 548
+tests/test_aws_bedrock_llm_thinking.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-253
+src/pipecat/adapters/tts/services/cartesia_adapter.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-147
+src/pipecat/services/nvidia/llm.py
+  s_f6534973cf91a2::t_c0877296125b4e 32-36,128,136-139,149-152,154-155,167-172,178-186
+  s_f6534973cf91a2::t_e5ba1e417c2fb7 187
+changelog/6346.added.md
+  s_f6534973cf91a2::t_c0877296125b4e 1-11
+src/pipecat/turns/user_start/krisp_viva_ip_user_turn_start_strategy.py
+  s_f6534973cf91a2::t_c0877296125b4e 15,176,190,192,194,196,199-200,208,224,232,253-254,256
+src/pipecat/turns/user_stop/external_user_turn_stop_strategy.py
+  s_f6534973cf91a2::t_c0877296125b4e 21-22,46,63-65,85-89,121-122,127,129,146-151,160,167,177-182,184-189,191-194,196,207-208,212-213,218,221
+src/pipecat/processors/frame_processor.py
+  s_f6534973cf91a2::t_c0877296125b4e 53,82-84,88-90,113,117
+src/pipecat/expressive/expression.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-129
+changelog/6229.fixed.2.md
+  s_f6534973cf91a2::t_c0877296125b4e 1
+src/pipecat/utils/context/text_segment_map.py
+  s_f6534973cf91a2::t_c0877296125b4e 227,242-243,248-261,735,737,745
+tests/test_llm_expression.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-246
+tests/test_minimax_tts_expression.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-112
+changelog/6229.added.md
+  s_f6534973cf91a2::t_c0877296125b4e 1
+tests/test_user_turn_stop_strategy.py
+  s_f6534973cf91a2::t_c0877296125b4e 12-13,26,858,886,912-913,915,927,931,947,968,979-1062,1081,1089,1144,1153,1156-1276
+  s_f6534973cf91a2::t_9a933aa0ffe262 1277
+changelog/6346.added.4.md
+  s_f6534973cf91a2::t_c0877296125b4e 1
+changelog/6181.changed.md
+  s_f6534973cf91a2::t_c0877296125b4e 1
+src/pipecat/expressive/perception.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-94
+changelog/6303.added.md
+  s_f6534973cf91a2::t_c0877296125b4e 1-5
+tests/test_utils_string.py
+  s_f6534973cf91a2::t_c0877296125b4e 243,247,251,257,261,270,277,280-292
+  s_f6534973cf91a2::t_1952f9bd82fa52 293
+changelog/6346.deprecated.7.md
+  s_f6534973cf91a2::t_c0877296125b4e 1
+tests/test_eager_user_turn_strategies.py
+  s_f6534973cf91a2::t_c0877296125b4e 21-23,105,132,136,160,170,200,227,289,306,365,417,487,548,622,624,674,743-767
+src/pipecat/services/aws/llm.py
+  s_f6534973cf91a2::t_c0877296125b4e 35-37,47-51,471-478,596-599,610-628,649-655,685-686,733-736,771-781
+  s_f6534973cf91a2::t_1b21a6549e03d8 782
+changelog/6346.changed.2.md
+  s_f6534973cf91a2::t_c0877296125b4e 1
+src/pipecat/processors/perception/tone.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-289
+src/pipecat/turns/user_stop/llm_turn_completion_user_turn_stop_strategy.py
+  s_f6534973cf91a2::t_c0877296125b4e 7,9-23,25-26,30-55,67-68,74-76,83-112,115-132,144-196
+tests/test_pipecat_tone_reader.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-116
+tests/test_tts_metadata.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-124
+tests/test_fish_tts.py
+  s_f6534973cf91a2::t_c0877296125b4e 14-15,147-207
+tests/test_user_turn_controller.py
+  s_f6534973cf91a2::t_c0877296125b4e 12-13,17-18,25,27,31-36,40-41,43,52,55,58,60-66,209,213-216,324-462,796,854,868,914,1065-1630
+  s_f6534973cf91a2::t_3e9046c047386b 1631-1632
+tests/test_evals_session.py
+  s_f6534973cf91a2::t_c0877296125b4e 271-327
+examples/expressive-conversation/expressive-conversation-elevenlabs.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-180
+tests/aic_mocks.py
+  s_f6534973cf91a2::t_c0877296125b4e 9-10,15,120-179
+  s_f6534973cf91a2::t_1ced1c457cb120 180-184
+tests/test_soniox_tts.py
+  s_f6534973cf91a2::t_c0877296125b4e 175
+tests/test_expression_instructions.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-259
+changelog/6229.fixed.md
+  s_f6534973cf91a2::t_c0877296125b4e 1
+changelog/6346.added.3.md
+  s_f6534973cf91a2::t_c0877296125b4e 1
+changelog/6346.changed.md
+  s_f6534973cf91a2::t_c0877296125b4e 1
+pyproject.toml
+  s_f6534973cf91a2::t_c0877296125b4e 75,166
+src/pipecat/turns/user_start/base_user_turn_start_strategy.py
+  s_f6534973cf91a2::t_c0877296125b4e 9,16-20,55-60,63-65,80,84,96,109-119,195-197,219,225-229,240-295
+tests/test_aggregated_frame_sequencer.py
+  s_f6534973cf91a2::t_c0877296125b4e 1631-1642,2272-2284,2293
+changelog/6303.added.2.md
+  s_f6534973cf91a2::t_c0877296125b4e 1
+src/pipecat/services/elevenlabs/tts.py
+  s_f6534973cf91a2::t_c0877296125b4e 30-31,45,897-909,1139,1182-1198
+changelog/6367.fixed.md
+  s_f6534973cf91a2::t_c0877296125b4e 1
+src/pipecat/turns/eager_end_of_turn_mixin.py
+  s_f6534973cf91a2::t_c0877296125b4e 15,146
+src/pipecat/expressive/spoken.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-189
+changelog/6365.changed.md
+  s_f6534973cf91a2::t_c0877296125b4e 1
+tests/test_text_segment_map.py
+  s_f6534973cf91a2::t_c0877296125b4e 128,131,140
+src/pipecat/turns/user_stop/eager_user_turn_stop_strategy.py
+  s_f6534973cf91a2::t_c0877296125b4e 16-19,21,40-41,84-86,93-94,101,105-125,131-133,135,137-139,145-147,150,160-164,171,178,184,186,192,208,225
+tests/test_elevenlabs_dialogue_tts.py
+  s_f6534973cf91a2::t_c0877296125b4e 16-17,25-27,488-590
+changelog/6346.changed.8.md
+  s_f6534973cf91a2::t_c0877296125b4e 1
+changelog/6346.changed.3.md
+  s_f6534973cf91a2::t_c0877296125b4e 1
+src/pipecat/turns/user_turn_processor.py
+  s_f6534973cf91a2::t_c0877296125b4e 20,27,32,48-49,51-56,73-76,91,100-103,114,121,135-137,229,264-265
+  s_f6534973cf91a2::t_ef8c42717e39ab 266
+src/pipecat/evals/script.py
+  s_f6534973cf91a2::t_c0877296125b4e 35-38,340-346,410-413,451-452,455
+src/pipecat/utils/context/aggregated_frame_sequencer.py
+  s_f6534973cf91a2::t_c0877296125b4e 9,24,166-167,301-303,371,685-693,699-701,822,824-826,837-840,846,849-850,852,854
+changelog/6346.changed.6.md
+  s_f6534973cf91a2::t_c0877296125b4e 1
+tests/test_rtvi_observer_perception.py
+  s_f6534973cf91a2::t_c0877296125b4e 1-79
+src/pipecat/turns/user_turn_controller.py
+  s_f6534973cf91a2::t_c0877296125b4e 10-13,23,28-32,39,42-46,48-56,65-81,88-89,91-102,124-127,132-139,153,160-163,168-171,178-183,193,252-254,276,300-301,303-307,310-311,313-317,320-330,342,354-366,378,390-405,409,422-423,425,436-454,459-461,468-471,473-474,476-477,479-480,482-494,504,506,514,519-575,586-589,596-675,683-684,689-690,700,714-719,721-723
+src/pipecat/turns/user_turn_strategies.py
+  s_f6534973cf91a2::t_c0877296125b4e 9-14,32,35-36,38-42,44-53,56-57,60-84,87-97,109-111,122-129,132-133,139-182,224-233,247,252-257,271-275,331-357
+.github/workflows/coverage.yaml
+  s_f6534973cf91a2::t_c0877296125b4e 35
+tests/test_user_turn_completion_mixin.py
+  s_f6534973cf91a2::t_c0877296125b4e 13,19,22,38,40-42,143,235,423-526
+  s_f6534973cf91a2::t_7895c31b69ce07 527-528
+tests/test_krisp_ip_user_turn_start_strategy.py
+  s_f6534973cf91a2::t_c0877296125b4e 130,150,166,185,199,221-222,246-247,308,327
+evals/release/manifest.yaml
+  s_f6534973cf91a2::t_c0877296125b4e 409-425
+changelog/6319.added.md
+  s_f6534973cf91a2::t_c0877296125b4e 1-4
+changelog/6315.added.md
+  s_f6534973cf91a2::t_c0877296125b4e 1-4
+tests/test_eager_end_of_turn_mixin.py
+  s_f6534973cf91a2::t_c0877296125b4e 12,47,59
+uv.lock
+  s_f6534973cf91a2::t_38b6107285f1e5 42,48-89,6188-6191,6246,6276,6351,6363
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "73742047f1b37bb260ca7eb201a74c72c841e385",
+  "prompts": {},
+  "sessions": {
+    "s_f6534973cf91a2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17028-acb1-7011-a8a4-b860d76587c5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "naszzz <naszagorov@gmail.com>"
+    }
+  }
+}
