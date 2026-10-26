@@ -1,0 +1,23 @@
+changelog/output-buffer-stop.fixed.md
+  s_f6534973cf91a2::t_da0f791481c664 1
+src/pipecat/transports/base_output.py
+  s_f6534973cf91a2::t_08fb4f52a4b223 641,843
+tests/test_base_output_transport.py
+  s_f6534973cf91a2::t_e4bf2859dbee51 382-431
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0d908538e14a36552c3a2f60f5556f684f4ed967",
+  "prompts": {},
+  "sessions": {
+    "s_f6534973cf91a2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17028-acb1-7011-a8a4-b860d76587c5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "naszzz <naszagorov@gmail.com>"
+    }
+  }
+}
