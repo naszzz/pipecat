@@ -122,6 +122,7 @@ changelog/+rime-prism.added.md
   s_ece08a5f5d2398::t_1b92279a8e67f2 1
 src/pipecat/turns/user_start/external_user_turn_start_strategy.py
   s_ece08a5f5d2398::t_f0231037bc9e96 69-72
+  s_f6534973cf91a2::t_040f6b345bcf1f 68
 docs/services/rime-realtime.md
   s_ece08a5f5d2398::t_e6ed89fbc972e3 14,18-26
   s_ece08a5f5d2398::t_1b92279a8e67f2 1-13,15-17,27-100
@@ -136,6 +137,14 @@ docs/services/rime-realtime.md
       "agent_id": {
         "tool": "codex",
         "id": "01a17052-204e-7942-b86e-766b3608450c",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "naszzz <naszagorov@gmail.com>"
+    },
+    "s_f6534973cf91a2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17028-acb1-7011-a8a4-b860d76587c5",
         "model": "gpt-6.1-sol"
       },
       "human_author": "naszzz <naszagorov@gmail.com>"
