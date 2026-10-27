@@ -43,6 +43,8 @@ docs/services/rime-realtime.md
   s_f6534973cf91a2::t_3da38a8e7eea50 1,3,5-6,9,13,18,20-23,27,29,31-33,35,37,39,41,43,45,47,49,51,53,55,57,59,61,63,65,67,69,71,73,75,77,79,83,86-87,90,93-94,97
 src/pipecat/services/llm_service.py
   s_f6534973cf91a2::t_6fa6efabde5eab 1916
+src/pipecat/turns/user_start/external_user_turn_start_strategy.py
+  s_f6534973cf91a2::t_6c3a60ebd66553 68
 ---
 {
   "schema_version": "authorship/3.0.0",
