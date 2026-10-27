@@ -1,0 +1,42 @@
+src/pipecat/services/rime/realtime/_aggregators.py
+  s_f6534973cf91a2::t_fe0cdfd7c98014 101-107
+  s_f6534973cf91a2::t_8f14d454a65c0c 12,17,41,64-69,75-76,78
+  s_f6534973cf91a2::t_c6766b680e47cb 1-11,13-16,18-40,42-63,70-74,77,79-100,108-118
+examples/realtime/realtime-rime.py
+  s_f6534973cf91a2::t_fe0cdfd7c98014 72
+tests/test_rime_realtime_service.py
+  s_f6534973cf91a2::t_b9893a5db76eae 206-244
+  s_f6534973cf91a2::t_bd977ca134be3b 106,112-141
+  s_f6534973cf91a2::t_d6b24335215236 105
+  s_f6534973cf91a2::t_ae45e03465eb45 23,32,142-203
+  s_f6534973cf91a2::t_3ef1af5040f86e 204-205
+docs/services/rime-realtime.md
+  s_f6534973cf91a2::t_fe0cdfd7c98014 3,27,35-36,55-57,59
+changelog/6370.added.md
+  s_f6534973cf91a2::t_fe0cdfd7c98014 1
+docs/services/rime-realtime-validation.md
+  s_f6534973cf91a2::t_dc43deb2210433 23,25
+  s_f6534973cf91a2::t_5b7d9328d560f2 3,9,24
+src/pipecat/services/rime/realtime/llm.py
+  s_f6534973cf91a2::t_c6766b680e47cb 61-65,70-73,131,140,282-305,408,410-418,421-422,479-480
+src/pipecat/services/rime/realtime/_history.py
+  s_f6534973cf91a2::t_8f14d454a65c0c 44-45,79,128
+tests/rime_realtime_peer.py
+  s_f6534973cf91a2::t_c6766b680e47cb 276
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c3d89a10c88cc98a3c35960773e4674ccc2c4aef",
+  "prompts": {},
+  "sessions": {
+    "s_f6534973cf91a2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17028-acb1-7011-a8a4-b860d76587c5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "naszzz <naszagorov@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+tests/test_rime_realtime_service.py
+  s_ece08a5f5d2398::t_8447df4ba444f6 763-796
+  s_ece08a5f5d2398::t_cf38cdc2c6cf62 746,748,751-753,800,804-811,813-827
+  s_ece08a5f5d2398::t_135704bdae3d6f 812
+  s_ece08a5f5d2398::t_f0f880ca4cec9d 743-745
+  s_ece08a5f5d2398::t_a3d5fe1ba2af7f 747
+  s_ece08a5f5d2398::t_f2037500bf4224 749-750
+  s_ece08a5f5d2398::t_eedb78727f1aa9 754-756,760-762
+  s_ece08a5f5d2398::t_f3a5af7bf6f35c 797-799
+  s_ece08a5f5d2398::t_caa94b6cf8843c 801-803
+  s_ece08a5f5d2398::t_88225b9382cbef 741-742,757-759
+src/pipecat/services/rime/realtime/llm.py
+  s_ece08a5f5d2398::t_86b3db2c829092 425-426,1192
+  s_ece08a5f5d2398::t_9476a50b136785 678,825-832
+src/pipecat/processors/frame_processor.py
+  s_ece08a5f5d2398::t_2da479d27f7622 31,741-743
+docs/services/rime-realtime-validation.md
+  s_ece08a5f5d2398::t_f9ac6e86bf8189 15-17
+  s_ece08a5f5d2398::t_ac41e46d3c6a35 1-14,18-54,57-110
+  s_ece08a5f5d2398::t_0b2cc7b9b99ed0 55-56
+examples/realtime/realtime-rime.py
+  s_ece08a5f5d2398::t_8447df4ba444f6 65,72
+evals/release/scenarios/scripted/rime_prism_audio.yaml
+  s_ece08a5f5d2398::t_3e8c6ab075b0af 17-72
+  s_ece08a5f5d2398::t_49007fcdfc1867 1-16
+docs/services/rime-realtime.md
+  s_ece08a5f5d2398::t_e10f6a78c2eda0 3,96,100-109
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e57f6af31a747e0460e3e294b1409d908f61754d",
+  "prompts": {},
+  "sessions": {
+    "s_ece08a5f5d2398": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17052-204e-7942-b86e-766b3608450c",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "naszzz <naszagorov@gmail.com>"
+    }
+  }
+}
