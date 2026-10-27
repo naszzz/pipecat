@@ -1,0 +1,30 @@
+tests/test_rime_realtime_service.py
+  s_f6534973cf91a2::t_0f5156637a8bb8 413-487
+docs/services/rime-realtime.md
+  s_f6534973cf91a2::t_d460f3cbc53a91 9-10,83-85
+  s_f6534973cf91a2::t_bf264b6b8c53b3 86
+docs/services/rime-realtime-validation.md
+  s_f6534973cf91a2::t_df3ea18673efdc 3,9,23
+changelog/6370.added.md
+  s_f6534973cf91a2::t_d2fefa9edaca7f 1
+pyproject.toml
+  s_f6534973cf91a2::t_d460f3cbc53a91 150
+uv.lock
+  s_f6534973cf91a2::t_f19a4743fa0f5f 6339,8239,8248,8250
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "aa6b98bc15512149732a9e1e3c6545143f06c2c1",
+  "prompts": {},
+  "sessions": {
+    "s_f6534973cf91a2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17028-acb1-7011-a8a4-b860d76587c5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "naszzz <naszagorov@gmail.com>"
+    }
+  }
+}
