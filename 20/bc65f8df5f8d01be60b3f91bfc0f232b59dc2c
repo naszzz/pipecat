@@ -1,0 +1,19 @@
+docs/services/rime-realtime-validation.md
+  s_75731326697755::t_ef698426ee8c75 25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "20bc65f8df5f8d01be60b3f91bfc0f232b59dc2c",
+  "prompts": {},
+  "sessions": {
+    "s_75731326697755": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17fd8-a7f0-7cd1-8779-b46af7ee7f7a",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "naszzz <naszagorov@gmail.com>"
+    }
+  }
+}
