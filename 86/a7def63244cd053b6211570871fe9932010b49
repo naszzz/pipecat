@@ -124,6 +124,8 @@ src/pipecat/turns/user_start/external_user_turn_start_strategy.py
 docs/services/rime-realtime.md
   s_ece08a5f5d2398::t_e6ed89fbc972e3 14,18-26
   s_ece08a5f5d2398::t_1b92279a8e67f2 1-13,15-17,27-100
+README.md
+  s_6c905c1560b50c::t_61f3c1be4e3a73 95
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -131,6 +133,14 @@ docs/services/rime-realtime.md
   "base_commit_sha": "86a7def63244cd053b6211570871fe9932010b49",
   "prompts": {},
   "sessions": {
+    "s_6c905c1560b50c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c15f-c3fa-7773-aba8-f643c88b79d5",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "naszzz <naszagorov@gmail.com>"
+    },
     "s_ece08a5f5d2398": {
       "agent_id": {
         "tool": "codex",
