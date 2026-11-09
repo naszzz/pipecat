@@ -25,6 +25,8 @@ pyproject.toml
   s_a3a25f6fe5abcf::t_165f9702ae3dbb 149
 uv.lock
   s_bd31be583da884::t_c527e5015e6400 6407
+tests/test_adapters_llm_shims.py
+  s_6c905c1560b50c::t_83cb6b88b0db18 20-24,30
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -32,6 +34,14 @@ uv.lock
   "base_commit_sha": "4872ed0d7f9f12a13c7ff94433e50a454e4dbbce",
   "prompts": {},
   "sessions": {
+    "s_6c905c1560b50c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c15f-c3fa-7773-aba8-f643c88b79d5",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "naszzz <naszagorov@gmail.com>"
+    },
     "s_a3a25f6fe5abcf": {
       "agent_id": {
         "tool": "codex",
