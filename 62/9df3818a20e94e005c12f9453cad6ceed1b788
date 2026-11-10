@@ -1,0 +1,21 @@
+tests/test_rime_realtime_playback.py
+  s_dff5b14ae8e75a::t_c22762b7b54acc 112-149
+src/pipecat/services/rime/realtime/_aggregators.py
+  s_dff5b14ae8e75a::t_c22762b7b54acc 157-158
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "629df3818a20e94e005c12f9453cad6ceed1b788",
+  "prompts": {},
+  "sessions": {
+    "s_dff5b14ae8e75a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c294-c954-7b60-9212-76e4732b96d5",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "naszzz <naszagorov@gmail.com>"
+    }
+  }
+}
