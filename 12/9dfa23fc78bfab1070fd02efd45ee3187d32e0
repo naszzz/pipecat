@@ -1,0 +1,37 @@
+tests/test_rime_realtime_history_progress.py
+  s_dff5b14ae8e75a::t_c3aeb178245599 47-55
+  s_dff5b14ae8e75a::t_84a8fbda9bce7b 1-46,56-101
+src/pipecat/services/rime/realtime/llm.py
+  s_dff5b14ae8e75a::t_eaee48c6a8069f 549-550
+  s_dff5b14ae8e75a::t_a61805043a2f63 77,547-548,551-553,669-676,687-694
+tests/test_rime_realtime_playback.py
+  s_dff5b14ae8e75a::t_78ccd0006114aa 1-15,17,19-29,31-49,52-65,70-73,75-93,97-111
+  s_dff5b14ae8e75a::t_72c064bcede087 16,30,50-51,74
+  s_dff5b14ae8e75a::t_653da5bff3413d 66-69
+  s_dff5b14ae8e75a::t_eaee48c6a8069f 18,94-96
+docs/services/rime-realtime.md
+  s_dff5b14ae8e75a::t_eaee48c6a8069f 51-52
+src/pipecat/services/rime/realtime/_aggregators.py
+  s_dff5b14ae8e75a::t_a61805043a2f63 10-19,51-58,157,159-167
+  s_dff5b14ae8e75a::t_eaee48c6a8069f 158
+src/pipecat/services/rime/realtime/_history.py
+  s_dff5b14ae8e75a::t_84a8fbda9bce7b 60-65,334
+  s_dff5b14ae8e75a::t_c3aeb178245599 148
+  s_dff5b14ae8e75a::t_cfd44c1368c2aa 66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "129dfa23fc78bfab1070fd02efd45ee3187d32e0",
+  "prompts": {},
+  "sessions": {
+    "s_dff5b14ae8e75a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c294-c954-7b60-9212-76e4732b96d5",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "naszzz <naszagorov@gmail.com>"
+    }
+  }
+}
