@@ -1,0 +1,27 @@
+docs/services/rime-realtime.md
+  s_b54e51fef00cd5::t_a3298b56c3af26 47,81
+pyproject.toml
+  s_b54e51fef00cd5::t_9df98b31c3f9bb 146-147
+src/pipecat/services/rime/realtime/_adapter.py
+  s_b54e51fef00cd5::t_c537f7a7674d17 19,71
+tests/test_rime_realtime_parity.py
+  s_b54e51fef00cd5::t_e2704b59dc224b 87,97-117
+uv.lock
+  s_b54e51fef00cd5::t_1c2e3581d3679d 6503-6504,8426,8435,8437
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5a4ea82cd9b09043b6621c097644af0563f39e5d",
+  "prompts": {},
+  "sessions": {
+    "s_b54e51fef00cd5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_b54e51fef00cd5",
+        "model": "unknown"
+      },
+      "human_author": "naszzz <naszagorov@gmail.com>"
+    }
+  }
+}
