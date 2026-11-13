@@ -1,0 +1,31 @@
+docs/services/rime-realtime.md
+  s_d9a5fe5fcbbd6e::t_9359641bf19879 119
+src/pipecat/services/rime/realtime/_conversation.py
+  s_d9a5fe5fcbbd6e::t_eea8e1c221d30a 105-107,134,136-137,139,158-160,164
+src/pipecat/services/rime/realtime/_playback.py
+  s_d9a5fe5fcbbd6e::t_86b5ba98ca7ee4 19,26,33,39,48
+src/pipecat/services/rime/realtime/llm.py
+  s_d9a5fe5fcbbd6e::t_45d309c362875a 276-282,665,713-715,732,735-746,897,946,948,952,960,1007,1042,1096
+tests/rime_realtime_peer.py
+  s_d9a5fe5fcbbd6e::t_7bebd7bc93647e 51-56,59-67,70-107,131,135-140,160-178,228-231,233-235
+tests/test_rime_realtime_parity.py
+  s_d9a5fe5fcbbd6e::t_f5554a6b312aa6 586-587
+tests/test_rime_realtime_service.py
+  s_d9a5fe5fcbbd6e::t_3f46749eb764fe 468-508
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a243f035615ffe09c4b490a9bbd4e25d4158350f",
+  "prompts": {},
+  "sessions": {
+    "s_d9a5fe5fcbbd6e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_d9a5fe5fcbbd6e",
+        "model": "unknown"
+      },
+      "human_author": "naszzz <naszagorov@gmail.com>"
+    }
+  }
+}
