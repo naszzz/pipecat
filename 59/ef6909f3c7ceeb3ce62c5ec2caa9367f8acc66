@@ -1,0 +1,622 @@
+.claude/skills/provider-research/RESEARCH_GUIDE.md
+  h_018052b8652914 79
+.github/workflows/coverage.yaml
+  h_018052b8652914 58
+.github/workflows/format.yaml
+  h_018052b8652914 48-52
+.github/workflows/provider-watch.yml
+  h_018052b8652914 192,194,224,231-242,286-288,357
+.github/workflows/tests.yaml
+  h_018052b8652914 63
+.github/workflows/update-docs.yml
+  h_018052b8652914 100,268
+.pre-commit-config.yaml
+  h_018052b8652914 11-20
+AGENTS.md
+  h_018052b8652914 250
+CHANGELOG.md
+  h_018052b8652914 10-1511
+README.md
+  h_018052b8652914 80-87,95,142-143
+changelog/5583.added.2.md
+  h_018052b8652914 1
+changelog/5583.added.3.md
+  h_018052b8652914 1
+changelog/5583.added.4.md
+  h_018052b8652914 1
+changelog/5583.added.5.md
+  h_018052b8652914 1
+changelog/5583.added.6.md
+  h_018052b8652914 1
+changelog/5583.added.7.md
+  h_018052b8652914 1
+changelog/5583.added.8.md
+  h_018052b8652914 1
+changelog/5583.added.9.md
+  h_018052b8652914 1
+changelog/5583.added.md
+  h_018052b8652914 1
+changelog/5583.changed.2.md
+  h_018052b8652914 1
+changelog/5583.changed.md
+  h_018052b8652914 1
+changelog/5583.fixed.md
+  h_018052b8652914 1
+changelog/6381.changed.md
+  h_018052b8652914 1
+changelog/6627.changed.2.md
+  h_018052b8652914 1
+changelog/6627.changed.md
+  h_018052b8652914 1
+changelog/6627.fixed.2.md
+  h_018052b8652914 1
+changelog/6627.fixed.md
+  h_018052b8652914 1
+changelog/6752.added.md
+  h_018052b8652914 1
+changelog/6771.fixed.md
+  h_018052b8652914 1
+changelog/6773.added.md
+  h_018052b8652914 1
+changelog/6773.deprecated.md
+  h_018052b8652914 1
+docs/architecture/word-trecking/README.md
+  h_018052b8652914 125
+env.example
+  h_018052b8652914 105,122,124
+evals/classifiers/measure_turn_completion.py
+  h_018052b8652914 20
+evals/judges.py
+  h_018052b8652914 19-20,31-33,116-139
+evals/release/README.md
+  h_018052b8652914 52-55,254
+evals/release/manifest.yaml
+  h_018052b8652914 63-64,97-100,448-503,542-543
+evals/release/scenarios/scripted/speaker_diarization.yaml
+  h_018052b8652914 1-57
+evals/turn-completion/manifest.yaml
+  h_018052b8652914 186,188,217,219
+examples/expressive-conversation/expressive-conversation-hume-audio-decisions.py
+  h_018052b8652914 19-23,84-87,110
+examples/expressive-conversation/expressive-conversation-voice-reader.py
+  h_018052b8652914 1-212
+examples/features/features-classifiers-images.py
+  h_018052b8652914 10-12,19,39,116-122,138-142
+examples/features/features-classifiers.py
+  h_018052b8652914 11-13,20-21,40,140-146,162-166
+examples/features/features-speaker-diarization.py
+  h_018052b8652914 1-279
+examples/flows/python/utils.py
+  h_018052b8652914 46
+examples/transcription/transcription-speechmatics.py
+  h_018052b8652914 65,80-81
+examples/transports/transports-moq.py
+  h_018052b8652914 167,175
+examples/update-settings/stt/stt-speechmatics.py
+  h_018052b8652914 68,134,139
+examples/voice/voice-assemblyai-turn-detection.py
+  h_018052b8652914 90
+examples/voice/voice-deepgram-flux-eager.py
+  h_018052b8652914 1-196
+examples/voice/voice-google-image.py
+  h_018052b8652914 100-101
+examples/voice/voice-heygen-http.py
+  h_018052b8652914 1-143
+examples/voice/voice-heygen.py
+  h_018052b8652914 1-141
+examples/voice/voice-nvidia.py
+  h_018052b8652914 69,75
+examples/voice/voice-speechmatics-vad.py
+  h_018052b8652914 69,94
+examples/voice/voice-speechmatics.py
+  h_018052b8652914 90-91
+pyproject.toml
+  h_018052b8652914 90,94,99-100,118,148,155,165
+scripts/deprecations/deprecations.json
+  h_018052b8652914 247-257,302-345,2029-2039,3921-3931,4097-4107,4944-4954,5483-5493
+scripts/provider-watch/digest.py
+  h_018052b8652914 14-16,25-26,28,88-145,147-190,236,246
+scripts/provider-watch/publish.py
+  h_018052b8652914 34-35,395-407,409-410,490-495
+src/pipecat/audio/filters/rnnoise_filter.py
+  h_018052b8652914 104-105,165-170
+src/pipecat/audio/g711.py
+  h_018052b8652914 1-114
+src/pipecat/audio/resamplers/sinc_stream_resampler.py
+  h_018052b8652914 20,29-32,44,49-55,58-64
+src/pipecat/audio/utils.py
+  h_018052b8652914 23,231-234,237,240-243,253,255,258-264,267-270,280,282,285-288,294-297,307,309,312-318,321-324,334,336
+src/pipecat/classifiers/base_classifier.py
+  h_018052b8652914 300-302,359-363
+src/pipecat/classifiers/google/decisions/classifier.py
+  h_018052b8652914 1-305
+src/pipecat/classifiers/google/decisions/client.py
+  h_018052b8652914 1-233
+src/pipecat/classifiers/hume/audio_decisions/classifier.py
+  h_018052b8652914 50-52,110-111,118-122
+src/pipecat/classifiers/llm/classifier.py
+  h_018052b8652914 68
+src/pipecat/classifiers/tone/model.py
+  h_018052b8652914 23
+src/pipecat/classifiers/voice/classifier.py
+  h_018052b8652914 1-310
+src/pipecat/classifiers/voice/model.py
+  h_018052b8652914 1-180
+src/pipecat/cli/commands/eval.py
+  h_018052b8652914 43,271-273,490-495,540,544-545,550-556,558-560,565,654,663,679-681,691-692,704,706-708,712
+src/pipecat/cli/commands/init.py
+  h_018052b8652914 340-341
+src/pipecat/cli/registry/_configs.py
+  h_018052b8652914 503-510
+src/pipecat/cli/registry/_imports.py
+  h_018052b8652914 153
+src/pipecat/cli/registry/service_metadata.py
+  h_018052b8652914 951-960
+src/pipecat/cli/templates/server/Dockerfile.jinja2
+  h_018052b8652914 1
+src/pipecat/cli/templates/server/env.example.jinja2
+  h_018052b8652914 412-418,504,506
+src/pipecat/cli/templates/server/pyproject.toml.jinja2
+  h_018052b8652914 5-6
+src/pipecat/evals/_session_subprocess.py
+  h_018052b8652914 29,36-37,45,60
+src/pipecat/evals/client.py
+  h_018052b8652914 49,112,618
+src/pipecat/evals/conversation_observer.py
+  h_018052b8652914 10-12
+src/pipecat/evals/events.py
+  h_018052b8652914 69,96-99,182-184,212-216,271-279,388,401-402,531,545
+src/pipecat/evals/results.py
+  h_018052b8652914 244-246
+src/pipecat/evals/scenario.py
+  h_018052b8652914 7,22-30,108-111,118,144,158,208,215-216,244-245,280,348-355,364-374
+src/pipecat/evals/script.py
+  h_018052b8652914 322
+src/pipecat/evals/script_driver.py
+  h_018052b8652914 15,221-222,255,277-279,331-335
+src/pipecat/evals/serializer.py
+  h_018052b8652914 22,32,139-158,409-412,457-463
+src/pipecat/evals/simulation.py
+  h_018052b8652914 165-235
+src/pipecat/evals/simulation_driver.py
+  h_018052b8652914 377,389,393,404
+src/pipecat/evals/simulation_judge.py
+  h_018052b8652914 7,11-14,22,30-31,40,52-57,62,71-72
+src/pipecat/evals/suite.py
+  h_018052b8652914 126,236,481-482,488-491,719-721
+src/pipecat/evals/tts.py
+  h_018052b8652914 27,51-54,108-112,151,159,161,189,193-194,212,214,218-219,226,233,239-245
+src/pipecat/expressive/perception.py
+  h_018052b8652914 18-21,76-99
+src/pipecat/expressive/policy.py
+  h_018052b8652914 45-46,48-50
+src/pipecat/expressive/processors/perception_reader.py
+  h_018052b8652914 7,12,18,29-34,36,85-86,88-92,94-96,100-101,103-105,118,123-126,150-294,296,304-305,310,314-318,348-351,364-366,374,379,382-383,389-393,398-401,404,408,415-418,424-426,428,432-435,437-438,440,446-447,449-452,455-489,491-518,521-522,542-546,551-554,566-580,584-585,587-590,592-609,611-618,651-664,666-667,669-670,673-684,687-695,697-698,718,721-723,725-727,732-734,739-752,755,757-762,773-788
+src/pipecat/expressive/processors/tone_reader.py
+  h_018052b8652914 7,14-18,30-88,94,97-98,122,133,136-141,143
+src/pipecat/expressive/processors/tone_tagger/model.py
+  h_018052b8652914 26
+src/pipecat/expressive/processors/voice_reader.py
+  h_018052b8652914 1-187
+src/pipecat/flows/actions.py
+  h_018052b8652914 190-193,195-197,207-209
+src/pipecat/flows/config.py
+  h_018052b8652914 348-352,376-380
+src/pipecat/frames/frames.py
+  h_018052b8652914 597-621,630-632,638-642,653,657,669-671,675-679,688,692,707-709,713-717,727,731
+src/pipecat/processors/aggregators/llm_response_universal.py
+  h_018052b8652914 1442-1443,1450-1455,1586-1590,1595-1599,1601-1602,1605,1853-1854,2789-2791,2794
+src/pipecat/processors/audio/audio_buffer_processor.py
+  h_018052b8652914 31,245-246,305-307,310-312
+src/pipecat/processors/filters/wake_check_filter.py
+  h_018052b8652914 83,90-92,105-107
+src/pipecat/processors/frameworks/rtvi/models.py
+  h_018052b8652914 28,744-745,755,789-790,797
+src/pipecat/processors/frameworks/rtvi/observer.py
+  h_018052b8652914 55,1128,1138,1160,1183
+src/pipecat/processors/frameworks/rtvi/processor.py
+  h_018052b8652914 292-295
+src/pipecat/runner/run.py
+  h_018052b8652914 68,96-98,185,194,319,495-505,717,749-757,798,821-824,993-1034,1605-1688,1867-1917,2101,2106-2107,2143,2161-2164,2397,2401-2404,2434-2435,2438-2440
+src/pipecat/runner/sip.py
+  h_018052b8652914 1-423
+src/pipecat/runner/types.py
+  h_018052b8652914 290-371
+src/pipecat/runner/utils.py
+  h_018052b8652914 47,685-726,735-744,882-883,954-963
+src/pipecat/serializers/base_serializer.py
+  h_018052b8652914 54-55
+src/pipecat/serializers/genesys.py
+  h_018052b8652914 32,688,773,963-964
+src/pipecat/serializers/plivo.py
+  h_018052b8652914 16,168,249
+src/pipecat/serializers/telnyx.py
+  h_018052b8652914 17,177,179,279,281
+src/pipecat/serializers/twilio.py
+  h_018052b8652914 16,243,348
+src/pipecat/services/anthropic/llm.py
+  h_018052b8652914 74
+src/pipecat/services/assemblyai/models.py
+  h_018052b8652914 13,30-31,39,81-83,126-141,143-145,166-167,202
+src/pipecat/services/assemblyai/stt.py
+  h_018052b8652914 37,55,69-76,83-92,100,102-104,259-263,270-274,335,428-432,456,474-479,735-736,759,1145-1146,1165-1169,1232-1235,1247,1254,1269-1270,1283,1290-1314,1375-1377
+src/pipecat/services/aws/nova_sonic/llm.py
+  h_018052b8652914 33,424,706-707,709,718-725,1816-1818
+src/pipecat/services/aws/stt.py
+  h_018052b8652914 18,58-66,72-76,144-145,191-199,214-227,229,232,373-376,402,406,758-760,765-766
+src/pipecat/services/aws/tts.py
+  h_018052b8652914 140-146,353-354,362,390
+src/pipecat/services/azure/stt.py
+  h_018052b8652914 72-79,105-113,120-122,177,227,275-285,301-303,312
+src/pipecat/services/bland/tts.py
+  h_018052b8652914 84-85,176-177
+src/pipecat/services/cartesia/tts.py
+  h_018052b8652914 251-257,260-266,271,392,625-627,941,1090-1092
+src/pipecat/services/cartesia/turns/stt.py
+  h_018052b8652914 37,267,269
+src/pipecat/services/deepgram/flux/sagemaker/stt.py
+  h_018052b8652914 157
+src/pipecat/services/deepgram/flux/sagemaker/tts.py
+  h_018052b8652914 118
+src/pipecat/services/deepgram/flux/stt.py
+  h_018052b8652914 211
+src/pipecat/services/deepgram/flux/stt_base.py
+  h_018052b8652914 34,159-162,177,200,330,332,442-444,603-605,671-673,681-688,692
+src/pipecat/services/deepgram/flux/tts.py
+  h_018052b8652914 107
+src/pipecat/services/deepgram/flux/tts_base.py
+  h_018052b8652914 48-51,58,249-251
+src/pipecat/services/deepgram/sagemaker/stt.py
+  h_018052b8652914 161,171,268,332-333,535-541,545
+src/pipecat/services/deepgram/stt.py
+  h_018052b8652914 14,187-190,196-200,212-216,226,236-240,380,390,523,537-538,600-601,787-793,797
+src/pipecat/services/elevenlabs/dialogue/tts.py
+  h_018052b8652914 17,62-68,73-75,80-82,228,324-327
+src/pipecat/services/elevenlabs/stt.py
+  h_018052b8652914 183-189,195-196,302-303,390-392,438-455,461-464,474-475,657-667,695,716,744,788
+src/pipecat/services/elevenlabs/tts.py
+  h_018052b8652914 201-203
+src/pipecat/services/fish/tts.py
+  h_018052b8652914 55-57,108,367-369
+src/pipecat/services/funasr/stt.py
+  h_018052b8652914 44-46,97,103-112
+src/pipecat/services/google/gemini_live/llm.py
+  h_018052b8652914 73-76,355-356,360-361,402-407,869-871
+src/pipecat/services/google/gemini_live/stt.py
+  h_018052b8652914 35-38,206-208
+src/pipecat/services/google/gemini_live/vertex/llm.py
+  h_018052b8652914 81-84
+src/pipecat/services/google/image.py
+  h_018052b8652914 28-31,164-166
+src/pipecat/services/google/interactions/llm.py
+  h_018052b8652914 43,203-205
+src/pipecat/services/google/llm.py
+  h_018052b8652914 50,341-343
+src/pipecat/services/google/stt.py
+  h_018052b8652914 710
+src/pipecat/services/google/tts.py
+  h_018052b8652914 44,1222-1229,1383-1384,1390-1394,1396-1398,1474-1476,1514-1515,1563-1564,1724,1780-1781,1783-1786
+src/pipecat/services/google/utils.py
+  h_018052b8652914 11,179-217
+src/pipecat/services/gradium/stt.py
+  h_018052b8652914 398-408,462-463
+src/pipecat/services/heygen/tts.py
+  h_018052b8652914 1-756
+src/pipecat/services/heygen/video.py
+  h_018052b8652914 117,314,407
+src/pipecat/services/inworld/tts.py
+  h_018052b8652914 152-154,163,267,458-459,781
+src/pipecat/services/kokoro/tts.py
+  h_018052b8652914 257-258
+src/pipecat/services/meta/stt.py
+  h_018052b8652914 19,31,117-119,126-130,138-141,199,218-223,238-243,252-253,256,304,366,369,421-422,450-451,454-459,497-499,509,515,520-532
+src/pipecat/services/minimax/tts.py
+  h_018052b8652914 33,35,108-116,119-130,138,141,272,274,327,442-447,535-566
+src/pipecat/services/mistral/llm.py
+  h_018052b8652914 178-179,181
+src/pipecat/services/mistral/tts.py
+  h_018052b8652914 166
+src/pipecat/services/moonshine/stt.py
+  h_018052b8652914 49-55,146-147,149-151,166-170,185,256-260
+src/pipecat/services/nvidia/stt.py
+  h_018052b8652914 18-19,38,41,109-119,132-137,139-146,157-183,191-192,290,385-386,400,481,503,703-705,707-712,716-721,777-783,873-875,893,967-972,1003,1060-1064,1066-1074
+src/pipecat/services/nvidia/tts.py
+  h_018052b8652914 211-217
+src/pipecat/services/openai/image.py
+  h_018052b8652914 73-76,91-95,103-105,156,190-195,203
+src/pipecat/services/openai/realtime/events.py
+  h_018052b8652914 71-87,90-94,134-136,140,198-239,262-270,296
+src/pipecat/services/openai/responses/llm.py
+  h_018052b8652914 180
+src/pipecat/services/openai/stt.py
+  h_018052b8652914 54-57,65-68,72,84-87,149,194-199,206,228-237,467-475,710
+src/pipecat/services/piper/tts.py
+  h_018052b8652914 12,27,30,39-42,45-65,118-126,175-176,182,211-214,218,240-242,244,256-263,281-283,296-304,354,358-361
+src/pipecat/services/resembleai/tts.py
+  h_018052b8652914 12,30,35-47,49,98,172
+src/pipecat/services/rime/stt.py
+  h_018052b8652914 239-249,289,347-349,357,363,369,379,411,440
+src/pipecat/services/sarvam/tts.py
+  h_018052b8652914 1209-1212,1217
+src/pipecat/services/simli/video.py
+  h_018052b8652914 419-420
+src/pipecat/services/smallest/llm.py
+  h_018052b8652914 14,19,22,27,29-36,75,113-131
+src/pipecat/services/smallest/stt.py
+  h_018052b8652914 19,125-128,155-159,177-180,258,355,392-395,492-497,501
+src/pipecat/services/soniox/stt.py
+  h_018052b8652914 16,251-254,279-283,307-310,419,559,940-946,952-953
+src/pipecat/services/speechify/tts.py
+  h_018052b8652914 276-282
+src/pipecat/services/speechmatics/stt.py
+  h_018052b8652914 157-164,204-215,229-231,239-240,261,291-292,499-500,530-532,571-573,585,651-653,1128-1138,1143,1146
+src/pipecat/services/stt_service.py
+  h_018052b8652914 13,19,33,47,53-55,64-67,82-89,181,185-186,264-281,286-287,289-290,362-519,540,624-626,660-662,664,707,849-857,971,1017-1018,1054,1063-1065,1122-1130,1137-1138,1145-1148,1179-1182,1184,1201,1205-1232
+src/pipecat/services/together/tts.py
+  h_018052b8652914 83-89
+src/pipecat/services/tts_service.py
+  h_018052b8652914 23,135-138,608-609,823-825,2043,2047-2048,2076,2078-2079,2085-2086,2269,2286,2296-2333,2336,2747
+src/pipecat/services/whisper/base_stt.py
+  h_018052b8652914 15,300-309,314-325
+src/pipecat/services/whisper/stt.py
+  h_018052b8652914 56-58,247-251,423,596
+src/pipecat/services/xai/llm.py
+  h_018052b8652914 38-43,49,91,126-127,143-144
+src/pipecat/services/xai/stt.py
+  h_018052b8652914 17,93-95,108-112,125-128,191,229,428-434,438
+src/pipecat/services/xai/tts.py
+  h_018052b8652914 143-152,158,200,286-287
+src/pipecat/services/xtts/tts.py
+  h_018052b8652914 259,262-263
+src/pipecat/services/zoom_ai/realtime/llm.py
+  h_018052b8652914 180
+src/pipecat/services/zoom_ai/stt.py
+  h_018052b8652914 28,43,289-290,301-305,317-320,333-336,425,474-482,535,573,607,613,800-801,833-834,838-859
+src/pipecat/transports/base_output.py
+  h_018052b8652914 26,144-146,472-474,654-656,780,798-808,865-866
+src/pipecat/transports/daily/utils.py
+  h_018052b8652914 9-10,225-282,364,370-373,377-385,403,405-420,469-643
+src/pipecat/transports/heygen/transport.py
+  h_018052b8652914 167,242,267,295-300
+src/pipecat/transports/moq/transport.py
+  h_018052b8652914 19,23,308-311,486-491,520,674-681,866-868,876-937,949-959,977-990,999-1014,1017-1018,1024,1027,1030-1037,2118,2147,2149-2154,2161,2187,2194-2243,2269-2270,2272-2273,2332-2336,2373-2412,2427,2431
+src/pipecat/transports/sip/__init__.py
+  h_018052b8652914 1-15
+src/pipecat/transports/sip/connection.py
+  h_018052b8652914 1-1282
+src/pipecat/transports/sip/transport.py
+  h_018052b8652914 1-1029
+src/pipecat/transports/tavus/transport.py
+  h_018052b8652914 294,619,669-670,936-937
+src/pipecat/transports/websocket/client.py
+  h_018052b8652914 362-363
+src/pipecat/transports/websocket/fastapi.py
+  h_018052b8652914 460-461
+src/pipecat/transports/websocket/server.py
+  h_018052b8652914 379-380
+src/pipecat/turns/eager_end_of_turn_mixin.py
+  h_018052b8652914 25,53-56,95-98,100-101,108-109,112,119-144
+src/pipecat/turns/types.py
+  h_018052b8652914 45-46
+src/pipecat/turns/user_start/wake_phrase_user_turn_start_strategy.py
+  h_018052b8652914 92-93,115-116,129-133,263
+src/pipecat/turns/user_stop/eager_user_turn_stop_strategy.py
+  h_018052b8652914 17,25,36-42,96-98,133-138,166-167,182,196,207,210
+src/pipecat/utils/context/llm_context_summarization.py
+  h_018052b8652914 170-172,235
+src/pipecat/utils/text/transforms/currency.py
+  h_018052b8652914 24-38,40-41,63-64,66,69-73,86-97,113
+src/pipecat/utils/text/transforms/dates.py
+  h_018052b8652914 48-50,87
+src/pipecat/utils/text/transforms/numbers.py
+  h_018052b8652914 27,44
+src/pipecat/utils/text/transforms/percentages.py
+  h_018052b8652914 15,19-21
+src/pipecat/utils/text/transforms/strip_markdown.py
+  h_018052b8652914 71-80
+src/pipecat/utils/yaml.py
+  h_018052b8652914 16-19,31-35,53,67-69
+tests/cli/test_eval_display.py
+  h_018052b8652914 17,30,142-165
+tests/cli/test_eval_judge.py
+  h_018052b8652914 39-53,178-198
+tests/cli/test_project_generation.py
+  h_018052b8652914 544-546
+tests/genesys/test_genesys_serializer.py
+  h_018052b8652914 10,12-13,413-435
+tests/test_assemblyai_stt.py
+  h_018052b8652914 19-30,165-169,320-392,1244-1458
+tests/test_assemblyai_sync_stt.py
+  h_018052b8652914 134-135,142,147
+tests/test_audio_buffer_processor.py
+  h_018052b8652914 14,25-26,43-45,796-848
+tests/test_aws_audio_input_rates.py
+  h_018052b8652914 1-90
+tests/test_aws_stt_diarization.py
+  h_018052b8652914 1-123
+tests/test_azure_stt.py
+  h_018052b8652914 97-130
+tests/test_base_classifier.py
+  h_018052b8652914 309-311
+tests/test_base_output_transport.py
+  h_018052b8652914 11,17,733-766
+tests/test_bland_tts.py
+  h_018052b8652914 386-387
+tests/test_cartesia_tts.py
+  h_018052b8652914 114-133
+tests/test_classifiers_google_decisions.py
+  h_018052b8652914 1-910
+tests/test_classifiers_hume.py
+  h_018052b8652914 213,223,228-235
+tests/test_classifiers_voice.py
+  h_018052b8652914 1-442
+tests/test_context_aggregators_universal.py
+  h_018052b8652914 38,2607,2610-2611,2620,2631,2636,2639-2661
+tests/test_daily_rest_helper.py
+  h_018052b8652914 1-184
+tests/test_daily_sip_clients.py
+  h_018052b8652914 1-204
+tests/test_deepgram_flux_sagemaker_tts.py
+  h_018052b8652914 188
+tests/test_deepgram_flux_stt.py
+  h_018052b8652914 276-298
+tests/test_deepgram_flux_tts.py
+  h_018052b8652914 446,459,466,483
+tests/test_deepgram_sagemaker_stt.py
+  h_018052b8652914 9,16-19,46-89
+tests/test_deepgram_stt.py
+  h_018052b8652914 18,309,321-323,473-551
+tests/test_deprecation_markers.py
+  h_018052b8652914 284-287,289-290,300-301
+tests/test_eager_end_of_turn_mixin.py
+  h_018052b8652914 86,88,91-95,98,101-106,108-118
+tests/test_eager_user_turn_strategies.py
+  h_018052b8652914 425-460
+tests/test_elevenlabs_dialogue_tts.py
+  h_018052b8652914 12,373-384
+tests/test_elevenlabs_stt.py
+  h_018052b8652914 7-9,13,16,18-20,101-156,352-371
+tests/test_elevenlabs_tts.py
+  h_018052b8652914 466-478
+tests/test_evals_scenario.py
+  h_018052b8652914 17,122-189
+tests/test_evals_serializer.py
+  h_018052b8652914 25,31,39,293-316
+tests/test_evals_services.py
+  h_018052b8652914 190-191,194,198-206,210,213-215,218,222-223,226,229-266
+tests/test_evals_session.py
+  h_018052b8652914 40,49,62,66,91,93-94,987-1056,1624,1626-1627,1641,1647,1659,1666,1675,1684,1694,1716,1727,1741,1745-1746,1752,1768,1785,1799,1817,1832,1842,2094-2106,2140-2160,2415-2460
+tests/test_evals_simulation.py
+  h_018052b8652914 593-639
+tests/test_evals_simulation_judge.py
+  h_018052b8652914 12,148-211
+tests/test_evals_suite.py
+  h_018052b8652914 656-662
+tests/test_filters.py
+  h_018052b8652914 192-206
+tests/test_flows_actions.py
+  h_018052b8652914 218-245
+tests/test_funasr_stt.py
+  h_018052b8652914 5,8-16,140-178
+tests/test_g711.py
+  h_018052b8652914 1-88
+tests/test_gemini_tts.py
+  h_018052b8652914 22,192-194,244-247,275-295,443-487
+tests/test_google_utils.py
+  h_018052b8652914 8,13,16-20,64-99
+tests/test_gradium_stt.py
+  h_018052b8652914 13,403,406
+tests/test_heygen_tts.py
+  h_018052b8652914 1-778
+tests/test_heygen_video.py
+  h_018052b8652914 1-96
+tests/test_jambonz_serializer.py
+  h_018052b8652914 359-362,384-386
+tests/test_livekit_transport.py
+  h_018052b8652914 22-23,1654-1656
+tests/test_llm_turn_completion_user_turn_stop_strategy.py
+  h_018052b8652914 205-206,215,448-470
+tests/test_meta_stt.py
+  h_018052b8652914 16-17,135-136,287-386
+tests/test_minimax_tts_pronunciation_dict.py
+  h_018052b8652914 1-18
+tests/test_minimax_tts_text_normalization.py
+  h_018052b8652914 1-87
+tests/test_mistral_llm.py
+  h_018052b8652914 33-34,41
+tests/test_moonshine_stt.py
+  h_018052b8652914 15-22,46,49,139-157,215-233,260
+tests/test_moq_transport.py
+  h_018052b8652914 50,54-55,69-79,83,87,96,1110-1158,1188-2112,2483-2491
+tests/test_nvidia_stt.py
+  h_018052b8652914 8,13,17-26,247,250,258-293,310,324,328-329,331,342-343,373,380,394-396,542,580,602,613,628,654,663-664,701-757
+tests/test_openai_compatible_extra_body.py
+  h_018052b8652914 91-102
+tests/test_openai_image_gen.py
+  h_018052b8652914 135-157
+tests/test_openai_realtime_events.py
+  h_018052b8652914 28-69
+tests/test_openai_stt.py
+  h_018052b8652914 7-8,10,16,106,130-218
+tests/test_perception_reader.py
+  h_018052b8652914 25,27-31,33-35,38,126-136,139,154,171,184,201,210-220,224,236,252,257,278,309-310,319-320,338-345,380,392-395,401,405,417,419,425-426,429,438,442-459,480,493,505-506,509,522-525,529-530,533,535-538,543,549,551-627,636,653,687,702,706,715,727,740,744,762-789,793,815,837,851,868,884,901,920,943,961,981,1001,1019,1037,1056,1075,1085,1093-1610
+tests/test_pipecat_tone_reader.py
+  h_018052b8652914 11,15-20,219-271
+tests/test_pipecat_voice_reader.py
+  h_018052b8652914 1-218
+tests/test_piper_tts.py
+  h_018052b8652914 11,176-235
+tests/test_provider_watch_scripts.py
+  h_018052b8652914 250-289,721-733
+tests/test_rime_stt_stream.py
+  h_018052b8652914 10-11,29,278-310
+tests/test_rtvi_observer_speaker.py
+  h_018052b8652914 1-78
+tests/test_rtvi_processor.py
+  h_018052b8652914 471-488
+tests/test_runner_run.py
+  h_018052b8652914 33,359-521,572-573,593
+tests/test_runner_sip.py
+  h_018052b8652914 1-451
+tests/test_runner_utils.py
+  h_018052b8652914 36-42,409-541
+tests/test_sarvam_tts.py
+  h_018052b8652914 257-293
+tests/test_segmented_stt.py
+  h_018052b8652914 38-41,52-53,77-80,238-270
+tests/test_simli_video_service.py
+  h_018052b8652914 355-372
+tests/test_sinc_stream_resampler.py
+  h_018052b8652914 10,206-207,226-227,236-237,245-258
+tests/test_sip_connection.py
+  h_018052b8652914 1-738
+tests/test_sip_transport.py
+  h_018052b8652914 1-760
+tests/test_sip_video.py
+  h_018052b8652914 1-195
+tests/test_smallest_stt.py
+  h_018052b8652914 10,14,120-197
+tests/test_soniox_stt.py
+  h_018052b8652914 26,212-280
+tests/test_speechmatics_stt.py
+  h_018052b8652914 119-120,125,352-372,374-390,394-421,764
+tests/test_stt_keepalive.py
+  h_018052b8652914 31,41,60-77
+tests/test_stt_service.py
+  h_018052b8652914 10,12,15,17,22-24,26-29,31,39-48,60-63,76-85,114-348
+tests/test_tavus_transport.py
+  h_018052b8652914 13,17,29,31,86-107,406-461
+tests/test_telephony_serializer_rates.py
+  h_018052b8652914 14-16,159-160
+tests/test_tts_context_resampling.py
+  h_018052b8652914 1-248
+tests/test_user_perception.py
+  h_018052b8652914 11-17,124-143
+tests/test_utils_yaml.py
+  h_018052b8652914 29,32-33,37-66,96,99-125,128,130-131,138-162
+tests/test_voice_formatting.py
+  h_018052b8652914 46-79,100-125,341-356,606-652,707-726
+tests/test_wake_phrase_user_turn_start_strategy.py
+  h_018052b8652914 91-104,276,292
+tests/test_websocket_send_interval.py
+  h_018052b8652914 1-80
+tests/test_whisper_stt_transcribe.py
+  h_018052b8652914 23-29,31,45,48-49,58,60,76-96
+tests/test_xai_stt.py
+  h_018052b8652914 12,193-234
+tests/test_zoom_ai_stt.py
+  h_018052b8652914 22,175,188,193,198,201,235-236,574-609,620,622,624-663,666,674,678-696,1097
+uv.lock
+  h_018052b8652914 684-686,698-700,797-822,1315,1403,1737,1774-1775,1778,1781-1782,1785,1788,1791-1794,1797-1798,1801,1804,1807,2468-2472,2605,2611,2619,2621,3579-3634,4037-4049,4067-4077,5390,5438,5450,5471-5473,5485,5524,6185-6188,6193-6194,6200,6328-6331,6415,6426,6429,6432,6437,6462,6473,6480,6516-6517,6528,6584,6589,6591,7503,7521,8728,8805,9053-9055,9064,9067,9075,9096,9105,9113-9114,9244-9260,9275-9291,9308-9324,10228
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "59ef6909f3c7ceeb3ce62c5ec2caa9367f8acc66",
+  "prompts": {},
+  "humans": {
+    "h_018052b8652914": {
+      "author": "naszzz <naszagorov@gmail.com>"
+    }
+  }
+}
