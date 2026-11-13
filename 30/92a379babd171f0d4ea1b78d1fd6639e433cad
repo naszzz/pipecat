@@ -1,0 +1,19 @@
+tests/test_rime_stt_protocol.py
+  s_e07848e338e4e2::t_ee456f96e3c020 153,162
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3092a379babd171f0d4ea1b78d1fd6639e433cad",
+  "prompts": {},
+  "sessions": {
+    "s_e07848e338e4e2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_e07848e338e4e2",
+        "model": "unknown"
+      },
+      "human_author": "naszzz <naszagorov@gmail.com>"
+    }
+  }
+}
