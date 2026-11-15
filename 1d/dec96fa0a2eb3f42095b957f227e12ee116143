@@ -1,0 +1,25 @@
+evals/release/manifest.yaml
+  s_5156fe414bed24::t_f32e370e2464f6 193-194
+examples/realtime/realtime-rime-async-tool.py
+  s_5156fe414bed24::t_70219c892993f0 1-166
+examples/realtime/realtime-rime-billing-handoff.py
+  s_5156fe414bed24::t_f68508a77bfa2e 1-158
+examples/realtime/realtime-rime.py
+  s_5156fe414bed24::t_61f828db9ec305 9,12,15,18,20,26-28,33-62,64-83,88,90,94-106,109-127,130-133,136,138,140,144-147,150-151,158
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1ddec96fa0a2eb3f42095b957f227e12ee116143",
+  "prompts": {},
+  "sessions": {
+    "s_5156fe414bed24": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7251cebd-7c68-4c50-afcc-e883a3195ef4",
+        "model": "unknown"
+      },
+      "human_author": "naszzz <naszagorov@gmail.com>"
+    }
+  }
+}
