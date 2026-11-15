@@ -1,0 +1,19 @@
+src/pipecat/transports/base_output.py
+  s_5156fe414bed24::t_cb9e9016c0516a 16,408,609,613,796,841,920,952,956,1054
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3c411c1fc715a4b7d711a79bb7556e77c4f57a86",
+  "prompts": {},
+  "sessions": {
+    "s_5156fe414bed24": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7251cebd-7c68-4c50-afcc-e883a3195ef4",
+        "model": "unknown"
+      },
+      "human_author": "naszzz <naszagorov@gmail.com>"
+    }
+  }
+}
