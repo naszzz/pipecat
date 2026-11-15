@@ -1,0 +1,27 @@
+changelog/6370.added.md
+  s_5156fe414bed24::t_1bb11de9d3bac8 1
+src/pipecat/services/rime/realtime/_adapter.py
+  s_5156fe414bed24::t_59a241be560324 19,73
+src/pipecat/services/rime/realtime/llm.py
+  s_5156fe414bed24::t_a5eca675b7c160 100-106,115-121,192-195,223-226,230-237,348-349,364-381,405-415,429-430,734-735,744-748,842-848
+tests/rime_realtime_peer.py
+  s_5156fe414bed24::t_7028fbe31893d6 92-96,98-99
+tests/test_rime_realtime_service.py
+  s_5156fe414bed24::t_b9570f336fdfbc 23,444-550
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c0870762dcddf74674b2b5e1783ea2ac1ea73278",
+  "prompts": {},
+  "sessions": {
+    "s_5156fe414bed24": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7251cebd-7c68-4c50-afcc-e883a3195ef4",
+        "model": "unknown"
+      },
+      "human_author": "naszzz <naszagorov@gmail.com>"
+    }
+  }
+}
