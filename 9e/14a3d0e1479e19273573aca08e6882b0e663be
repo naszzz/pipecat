@@ -1,0 +1,25 @@
+src/pipecat/services/rime/realtime/_conversation.py
+  s_5156fe414bed24::t_ff52a1145b9cf9 102-103,111,116-119
+src/pipecat/services/rime/realtime/llm.py
+  s_5156fe414bed24::t_526535d4b9855f 61,132-137,139,158-164,259-262,296-297,334-337,488,490,534-535,566-568,581,588,597,599-604,608-610,615-622,625-628,635,638-681,711-736,740,744,747,966-967,969,971-972,982-984,1101-1110,1146-1150,1164-1170,1173-1178,1182-1230,1232-1233,1235-1236,1238-1272,1274-1276
+tests/test_rime_realtime_parity.py
+  s_5156fe414bed24::t_4128faa0c4e31a 10,276,303-305,315,317-318,320,322,327-329,332
+tests/test_rime_realtime_service.py
+  s_5156fe414bed24::t_e703c5331844ac 1010,1040-1042,1044-1294
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9e14a3d0e1479e19273573aca08e6882b0e663be",
+  "prompts": {},
+  "sessions": {
+    "s_5156fe414bed24": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7251cebd-7c68-4c50-afcc-e883a3195ef4",
+        "model": "unknown"
+      },
+      "human_author": "naszzz <naszagorov@gmail.com>"
+    }
+  }
+}
