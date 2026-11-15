@@ -1,0 +1,21 @@
+README.md
+  s_5156fe414bed24::t_255ce394a94a2b 96
+changelog/6370.added.md
+  s_5156fe414bed24::t_f81decc87fb767 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f4d691ffca6c37c2167aca573ca098e2c9c2807e",
+  "prompts": {},
+  "sessions": {
+    "s_5156fe414bed24": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7251cebd-7c68-4c50-afcc-e883a3195ef4",
+        "model": "unknown"
+      },
+      "human_author": "naszzz <naszagorov@gmail.com>"
+    }
+  }
+}
