@@ -1,0 +1,27 @@
+changelog/6370.changed.md
+  s_5156fe414bed24::t_d2678076731846 1
+pyproject.toml
+  s_5156fe414bed24::t_ba3ddbdbd27f31 146-147
+src/pipecat/services/rime/stt.py
+  s_5156fe414bed24::t_13a5ee56d7c2f1 49,119-120
+tests/test_rime_stt_stream.py
+  s_5156fe414bed24::t_7165c15e630e91 19,161
+uv.lock
+  s_5156fe414bed24::t_a315bcfeb88e03 6503-6504,8426,8435,8437
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "57e051a5614313099e0069644ea705adabf73265",
+  "prompts": {},
+  "sessions": {
+    "s_5156fe414bed24": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7251cebd-7c68-4c50-afcc-e883a3195ef4",
+        "model": "unknown"
+      },
+      "human_author": "naszzz <naszagorov@gmail.com>"
+    }
+  }
+}
