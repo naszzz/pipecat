@@ -1,0 +1,19 @@
+changelog/6370.added.md
+  s_30b31d89132bb3::t_99169f3867d6fc 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "77c75d322532d11bc9eefefb8c17b54ec71425af",
+  "prompts": {},
+  "sessions": {
+    "s_30b31d89132bb3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "30ca22ee-7f19-416f-a2a4-f854175fc845",
+        "model": "unknown"
+      },
+      "human_author": "naszzz <naszagorov@gmail.com>"
+    }
+  }
+}
