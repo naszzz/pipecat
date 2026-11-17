@@ -1,0 +1,25 @@
+src/pipecat/services/rime/realtime/llm.py
+  s_30b31d89132bb3::t_310af6f2868cb8 122-127,158-160,273,277-279,472,493-494,501,675,809-823
+tests/rime_realtime_peer.py
+  s_30b31d89132bb3::t_fad2a29c0bba1d 309-310
+tests/test_rime_realtime_parity.py
+  s_30b31d89132bb3::t_40cd63185d8da5 219,478
+tests/test_rime_realtime_service.py
+  s_30b31d89132bb3::t_99c346a7c53195 563-581
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b878d91d3853ba9e6e4839a40fde1022b868a11f",
+  "prompts": {},
+  "sessions": {
+    "s_30b31d89132bb3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "30ca22ee-7f19-416f-a2a4-f854175fc845",
+        "model": "unknown"
+      },
+      "human_author": "naszzz <naszagorov@gmail.com>"
+    }
+  }
+}
